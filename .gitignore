@@ -1,0 +1,8 @@
+build/
+dist/
+nbproject/
+reference/
+build.xml
+manifest.mf
+
+**/!README.TXT
